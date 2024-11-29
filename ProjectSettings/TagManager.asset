@@ -7,6 +7,10 @@ TagManager:
   - Projectile
   - TutorialRequirement
   - Face
+  - House
+  - Missile
+  - Enemy
+  - tree
   layers:
   - Default
   - TransparentFX
